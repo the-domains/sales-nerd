@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Sales Nerd]]></title>
+        <description><![CDATA[Sales Nerd]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 09 Apr 2016 23:22:59 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sales Prospecting: 5 Steps 4x the Performance]]></title>
+            <description><![CDATA[<article><h1>Sales Prospecting: 5 Steps 4x the Performance</h1><p>When it
+comes to sales prospecting the research is in, those who provide a structured
+process see a 16% increase in performance and 30% greater profits (Sales Management Association).Below, I
+share the 5 step process used to quadruple the performance of my own sales
+funnel.</p></article>]]></description>
+            <link>undefinedsales-prospecting-5-steps-4x-the-performance/index.html</link>
+            <guid isPermaLink="false">c6af9289-f9f4-4c75-a489-eeeb8443c2a9</guid>
+            <pubDate>Sat, 09 Apr 2016 23:22:59 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
