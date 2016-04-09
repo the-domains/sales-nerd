@@ -1,7 +1,7 @@
 name: Sales Nerd
 favicon: null
-layout_spectrum: 0.7384676770307124
-typography_spectrum: 0.7398317193146795
+layout_spectrum: 0.51361
+typography_spectrum: 0.38435
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.2008174709044397
+    - '#ff9966'
+    - '#ff0000'
+    - '#ff5555'
+    - '#ffff00'
+    - '#ffbf40'
+  brandStrength: 0.3125
   lightness: 0.7296747765503824
   saturation: 0.8256570107769221
   rhythmicContrast: 0.7256974431220442
